@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LesShute
-- 👀 I’m interested in learning about the capabilities of existing and emerging AI models
+- 👀 I’m interested in learning about the capabilities/real-world-applications of existing and emerging AI models
 - 🌱 I’m currently learning about Azure AI Designer and I am working towards my AI-102 Certification
 - 💞️ I’m looking to collaborate on useful business applications for Ai that can contribute towards improving the quality of healthcare and reducing its overall costs
 - 📫 How to reach me - les@infinityncm.com
